@@ -24,7 +24,6 @@ class HomePage extends StatelessWidget {
         children: <Widget>[
           Stepo(
             key: UniqueKey(),
-            animationDuration: Duration(milliseconds: 100),
           ),
         ],
       )),
