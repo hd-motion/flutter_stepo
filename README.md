@@ -5,15 +5,15 @@ A highly customisable Flutter package for animated unit stepper
 **Dart SDK version >= 2.1.0**
 
 ## Demo Gif
-<img src="https://github.com/hd-motion/flutter_stepo/blob/master/example/demo/stepo.gif" height="35%" width="35%"  alt="Stepo Demo"/>
+<img src="https://raw.githubusercontent.com/hd-motion/flutter_stepo/master/example/demo/stepo.gif" height="35%" width="35%"  alt="Stepo Demo"/>
 
 ## Installation
-[![Pub](https://img.shields.io/badge/pub-0.0.1-blue)](https://pub.dev/packages/stepo)
+[![Pub](https://img.shields.io/badge/pub-0.0.2-blue)](https://pub.dev/packages/stepo)
 
 Add the Package
 ```yaml
 dependencies:
-  stepo: ^0.0.1
+  stepo: ^0.0.2
 ```
 ## How to use
 
