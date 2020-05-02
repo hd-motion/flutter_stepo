@@ -2,7 +2,7 @@ name: stepo
 description: A new Flutter package.
 version: 0.0.1
 author: Harpreet Seera <harpreetseera8525@gmail.com>
-homepage:
+homepage: https://github.com/hd-motion/flutter_stepo
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

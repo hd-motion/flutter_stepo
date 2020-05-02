@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Release.
 
-* TODO: Describe initial release.
+* Aniimated Stepper widget.
+* Customisable animation duration, sizes and colors
