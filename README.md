@@ -8,12 +8,12 @@ A highly customisable Flutter package for animated unit stepper
 <img src="https://raw.githubusercontent.com/hd-motion/flutter_stepo/master/example/demo/stepo.gif" height="35%" width="35%"  alt="Stepo Demo"/>
 
 ## Installation
-[![Pub](https://img.shields.io/badge/pub-0.0.2-blue)](https://pub.dev/packages/stepo)
+[![Pub](https://img.shields.io/badge/pub-1.0.0-blue)](https://pub.dev/packages/stepo)
 
 Add the Package
 ```yaml
 dependencies:
-  stepo: ^0.0.2
+  stepo: ^1.0.0
 ```
 ## How to use
 

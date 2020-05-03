@@ -1,3 +1,8 @@
+## [1.0.0] - Release.
+
+* Fix maintenance issue.
+* Update description
+
 ## [0.0.2] - Release.
 
 * Update demo gif.
